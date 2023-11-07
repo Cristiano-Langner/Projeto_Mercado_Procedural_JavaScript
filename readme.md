@@ -1,3 +1,5 @@
+# Mercado Procedural em JavaScript
+
 Este programa em JavaScript foi desenvolvido como parte de um projeto de programação procedural.
 Ele simula um sistema de compras em um supermercado, permitindo ao usuário adicionar produtos ao carrinho,
 calcular o valor total da compra e realizar o pagamento.
